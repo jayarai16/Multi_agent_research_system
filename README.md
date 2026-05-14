@@ -46,7 +46,7 @@ Multi-agent-research-system-main/
 └── .gitignore
 ⚙️ Installation Guide
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/multi-agent-research-system.git
+git clone from the link
 cd multi-agent-research-system
 2️⃣ Create Virtual Environment
 Windows
